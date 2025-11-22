@@ -10,9 +10,30 @@ let lottoNums = [19,22,56,12,51];
 let stuff = [true,68, 'cat', nulll;]
 
 //indexed arrays in javascript
-let colors = ['red', 'orange', 'yellow'];
+let colors = ['red', 'orange', 'yellow','green','blue'];
 
 colors.length;
+
+colors.length //4
+
+//accessing each array values using indexed
+colors[0] //red
+colors[1] //orange
+colors[2] //yellow
+colors[3] //green
+colors[4] //blue
+colors[5]  //undefined
+
+
+//modifying arrays
+let colors = [' rad', 'orange', 'green', 'yellow'];
+
+colors[0] = 'red';  //changed to red
+colors[2] = 'yellow'; //now green
+colors [3] = 'green'; //now yellow
+colors[4]; // undefined
+colors[4] = 'blue';
+
 
 
 
