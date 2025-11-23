@@ -34,6 +34,9 @@ colors [3] = 'green'; //now yellow
 colors[4]; // undefined
 colors[4] = 'blue';
 
+//Arrays method
+
+
 
 
 
