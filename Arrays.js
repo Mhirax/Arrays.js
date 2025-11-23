@@ -35,7 +35,7 @@ colors[4]; // undefined
 colors[4] = 'blue';
 
 //Arrays method
-
+//push & pop
 
 
 
